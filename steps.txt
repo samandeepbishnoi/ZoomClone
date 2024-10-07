@@ -1,0 +1,5 @@
+1. Folder structure setup without src
+    **(auth) folder with sign-in and sign-up folder
+    **(root) folder with layout.tsx
+    ** (home) , meeting folder in root 
+    **added needed colors to tailwindconfig
